@@ -22,7 +22,7 @@ Fork the repository.
 
 Clone the repository -
 ```
-git clone https://github.com/keshavga1209/Pharmacy_Management
+git clone https://github.com/krshn-ptl/Pharmacy_Management_System
 ```
 
 ### Backend
